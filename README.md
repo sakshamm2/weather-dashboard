@@ -74,7 +74,7 @@ Designed with a modular architecture, the project demonstrates practical impleme
 ### Main Dashboard
 
 <p align="center">
-  <img src="screenshots/dashboard-home.png" width="900">
+  <img src="![Main Dashboard](screenshots/dashboard.png)" width="900">
 </p>
 
 ### Forecast Analytics
