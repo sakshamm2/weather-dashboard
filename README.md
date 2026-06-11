@@ -69,16 +69,25 @@ Designed with a modular architecture, the project demonstrates practical impleme
 
 ---
 
-## 🖼️ Application Preview
+## 📸 Screenshots
 
-![Dashboard Screen Preview](dashboard.png)
+### Main Dashboard
 
-Example:
+<p align="center">
+  <img src="screenshots/dashboard-home.png" width="900">
+</p>
 
-<img width="100%" alt="Weather Dashboard Preview" src="dashboard.png">
+### Forecast Analytics
 
----
+<p align="center">
+  <img src="screenshots/forecast-chart.png" width="900">
+</p>
 
+### City Comparison
+
+<p align="center">
+  <img src="screenshots/city-comparison.png" width="900">
+</p>
 ## 🛠️ Technology Stack
 
 | Technology    | Purpose                      |
