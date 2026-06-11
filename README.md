@@ -71,11 +71,7 @@ Designed with a modular architecture, the project demonstrates practical impleme
 
 ## 🖼️ Application Preview
 
-Add your application screenshot below:
-
-```markdown
-![Weather Dashboard](dashboard.png)
-```
+![Dashboard Screen Preview](dashboard.png)
 
 Example:
 
